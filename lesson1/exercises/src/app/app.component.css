@@ -1,0 +1,32 @@
+/*  Background Image */
+html{
+}
+
+body{
+    background-color: chocolate;
+    background-image: url(https://media1.tenor.com/images/ed1654cdec21c2fec83105bcac3809c9/tenor.gif?itemid=6035105);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+
+hr.type_2 {
+    border: 0;
+    height: 55px;
+    background-image: url(image/type_2.png);
+    background-repeat: no-repeat;
+    width: 500px;
+    }
+
+.links {
+    text-align: center;
+}
+
+.col-3{
+    border-right: dashed;
+    border-left: dashed;
+}
+
+.closingGif{
+    text-align: right;
+    width: 10;
+}
